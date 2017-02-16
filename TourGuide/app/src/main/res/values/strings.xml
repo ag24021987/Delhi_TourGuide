@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Delhi TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="red_fort">Red Fort</string>
+    <string name="chandni_chowk">Chandni Chowk</string>
+    <string name="india_gate">India Gate</string>
+    <string name="rajpath">Rajpath</string>
+    <string name="qutab_minar">Qutab Minar</string>
+    <string name="mehrauli">Mehrauli</string>
+    <string name="lotus_temple">Lotus Temple</string>
+    <string name="kalkaji">Kalkaji</string>
+    <string name="akshardham">Akshardham</string>
+    <string name="pandav_nagar">Pandav Nagar</string>
+    <string name="jantar_mantar">Jantar Mantar</string>
+    <string name="connaught_place">Connaught Place</string>
+    <string name="humayun_tomb">Humayun\'s Tomb</string>
+    <string name="mathura_road">Mathura Road</string>
+    <string name="central_delhi">Central Delhi</string>
+    <string name="old_delhi">Old Delhi</string>
+    <string name="dilli_haat">Dilli Haat</string>
+    <string name="south_delhi">South Delhi</string>
+    <string name="palika_bazaar">Palika Bazaar</string>
+    <string name="karol_bagh">Karol Bagh</string>
+    <string name="lajpat_nagar">Lajpat Nagar</string>
+    <string name="sarojini_nagar">Sarojini Nagar</string>
+    <string name="indian_accent">Indian Accent</string>
+    <string name="friends_colony">Friends Colony</string>
+    <string name="tamra">Tamra</string>
+    <string name="dakshin">Dakshin</string>
+    <string name="k3_restaurant">K3 Restaurant JW Marriott</string>
+    <string name="aerocity">Aerocity</string>
+    <string name="dum_pukht">Dum Pukht</string>
+    <string name="diplomatic_enclave">Diplomatic Enclave</string>
+    <string name="bukhara">Bukhara</string>
+    <string name="oriental_octopus">Oriental Octopus</string>
+    <string name="lodhi_road">Lodhi Road</string>
+    <string name="wood_castle">Wood Castle Grand</string>
+    <string name="tagore_garden">Tagore Garden</string>
+    <string name="the_leela">The Leela Palace</string>
+    <string name="chanakyapuri">Chanakyapuri</string>
+    <string name="the_oberoi">The Oberoi</string>
+    <string name="zh_marg">Dr. Zakir Hussain Marg</string>
+    <string name="shanti_home">Shanti Home</string>
+    <string name="janakpuri">Janakpuri</string>
+    <string name="the_taj_palace">Taj Palace Hotel</string>
+    <string name="the_taj_mahal">Taj Mahal Hotel</string>
+    <string name="mansingh_road">Mansingh Road</string>
+    <string name="the_imperial">The Imperial Hotel</string>
+    <string name="janpath">Janpath</string>
+</resources>

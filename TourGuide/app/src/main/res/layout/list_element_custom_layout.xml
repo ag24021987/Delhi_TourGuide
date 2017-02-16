@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="@dimen/minimum_image_height">
+
+    <ImageView
+        android:id="@+id/image_place"
+        style="@style/list_element_imageview_style" />
+
+    <LinearLayout
+        android:id="@+id/text_data"
+        style="@style/list_element_linear_layout_style"
+        android:layout_toRightOf="@id/image_place">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/list_element_textview_style" />
+
+        <TextView
+            android:id="@+id/location"
+            style="@style/list_element_textview_style" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/directions_icon"
+        style="@style/list_element_imageview_bottom_style"
+        android:layout_below="@id/text_data"
+        android:src="@drawable/ic_directions_car_black_24dp" />
+
+</RelativeLayout>
